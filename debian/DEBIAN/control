@@ -1,0 +1,8 @@
+Package: robosay
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Your Name <your.email@example.com>
+Description: RoboSay CLI Tool
+ A simple CLI tool to create a speech bubble with a robot ASCII art.
